@@ -3,5 +3,6 @@ public class Main {
         System.out.println("A");
         System.out.println("B");
         //lider 1
+        //lider 2
     }
 }
