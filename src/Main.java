@@ -6,5 +6,8 @@ public class Main {
         //COLAB 2
         //COLAB 3
 
+        //lider 1
+        //lider 2
+        //lider 3
     }
 }
