@@ -3,6 +3,7 @@ public class Main {
         System.out.println("A");
         System.out.println("B");
         //COLAB 1
+        //COLAB 2
 
     }
 }
